@@ -1,6 +1,6 @@
 # SIMPLY~
 SIMPLY is a  compact, custom-designed 8-key macropad with a rotary encoder, built using the Seeed Studio XIAO RP2040.
-This project makes the things simple , portable  and customize for productivity and everyday use.
+This project makes the things simple , portable  and customize for productivity and everyday use. this macropad is built in STASIS (organised by hackclub).
 
 ---
 
