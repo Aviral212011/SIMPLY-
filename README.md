@@ -40,6 +40,7 @@ bottom of the case
 <img width="1064" height="600" alt="SIMPLY~" src="https://github.com/user-attachments/assets/4e90fdf4-ec55-4d83-9c10-7466daab2392" />
 SIMPLY~
 <img width="691" height="504" alt="case" src="https://github.com/user-attachments/assets/454c64c4-9461-4674-9379-be9db8ea982a" />
+<img width="980" height="661" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/13da3fb0-1923-4f7f-8f83-916eaa07423a" />
 
 
 ---
