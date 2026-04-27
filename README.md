@@ -41,7 +41,8 @@ bottom of the case
 SIMPLY~
 <img width="691" height="504" alt="case" src="https://github.com/user-attachments/assets/454c64c4-9461-4674-9379-be9db8ea982a" />
 <img width="980" height="661" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/13da3fb0-1923-4f7f-8f83-916eaa07423a" />
-
+# Onshape link for case -
+ https://cad.onshape.com/documents/310f6f8a91e9e86c2858baed/w/dfd8510846a50f933a40a608/e/729a062be51d8e8d5201235f?renderMode=0&uiState=69ef84f2e1636cad1411ec10
 
 ---
 
